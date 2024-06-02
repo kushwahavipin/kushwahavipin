@@ -1,4 +1,3 @@
-![logo](https://github.com/kushwahavipin/kushwahavipin/blob/main/banner.png)
 
 <h1 align="center">Hi 👋, I'm Vipin Kushwaha</h1>
 
