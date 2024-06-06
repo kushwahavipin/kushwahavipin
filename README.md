@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **MERN Stack – MongoDB, ExpressJs, ReactJs & NodeJs**
 
-- 👨‍💻 All of my projects are available at [https://vipinkushwaha.com/](https://vipinkushwaha.com/)
+- 👨‍💻 All of my projects are available at [click](https://vipinkushwaha.com/)
 
 - 📝 I regularly write articles on [https://vipinkushwaha.com/blogs](https://vipinkushwaha.com/blogs)
 
