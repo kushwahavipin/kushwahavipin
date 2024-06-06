@@ -8,15 +8,15 @@
 
 - 🌱 I’m currently learning **MERN Stack – MongoDB, ExpressJs, ReactJs & NodeJs**
 
-- 👨‍💻 All of my projects are available at [click](https://vipinkushwaha.com/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://vipinkushwaha.com/)
 
-- 📝 I regularly write articles on [https://vipinkushwaha.com/blogs](https://vipinkushwaha.com/blogs)
+- 📝 I regularly write articles on [Blogs](https://vipinkushwaha.com/blogs)
 
 - 💬 Ask me about **Android App, Website**
 
 - 📫 How to reach me **info@vipinkushwaha.com**
 
-- 📄 Know about my experiences [https://vipinkushwaha.com/](https://vipinkushwaha.com/)
+- 📄 Know about my experiences [Experience](https://vipinkushwaha.com/)
 
 - ⚡ Fun fact **I think I am funny😅🤣**
 
