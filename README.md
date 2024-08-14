@@ -12,22 +12,20 @@
 
 - 🌱 I’m currently learning **MERN Stack – MongoDB, ExpressJs, ReactJs & NodeJs**
 
-- 👨‍💻 All of my projects are available at [https://vipinkushwaha.com/](https://vipinkushwaha.com/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://vipin-kushwaha.netlify.app/)
 
-- 📝 I regularly write articles on [https://vipinkushwaha.com/blogs](https://vipinkushwaha.com/blogs)
+- 📝 I regularly write Post on [Linkedin](https://www.linkedin.com/in/dvk01011999/)
 
 - 💬 Ask me about **HTML, CSS, JS, JAVA, Android, MERN**
 
 - 📫 How to reach me **info@vipinkushwaha.com**
-
-- 📄 Know about my experiences [vipinkushwaha.com](vipinkushwaha.com)
 
 - ⚡ Fun fact **I think I am funny😅🤣**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/https://twitter.com/vipinupkumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/vipinupkumar" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/vipin-kushwaha-378636156/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vipin-kushwaha-378636156/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/dvk01011999/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dvk01011999/" height="30" width="40" /></a>
 <a href="https://fb.com/vipin.kushwaha.7081493932" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vipin.kushwaha.7081493932" height="30" width="40" /></a>
 <a href="https://instagram.com/_official_vipin_lko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_official_vipin_lko" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/udaicoders" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="udaicoders" height="30" width="40" /></a>
