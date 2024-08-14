@@ -18,7 +18,7 @@
 
 - 💬 Ask me about **HTML, CSS, JS, JAVA, Android, MERN**
 
-- 📫 How to reach me **info@vipinkushwaha.com**
+- 📫 How to reach me [Click](https://linktr.ee/vipin_kushwaha)
 
 - ⚡ Fun fact **I think I am funny😅🤣**
 
