@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm VIPIN KUSHWAHA</h1>
-<h3 align="justify">Detail-oriented React Developer with 3 years of Android and software development experience. Proficient in developing cross-platform mobile applications and software solutions. Seeking to leverage expertise in React Native, Android, and software development to contribute to innovative projects and drive business success.</h3>
+<h2 align="justify">Accomplished MERN and Android Developer with 3+ years of experience creating dynamic, high-performance applications. Proven ability to deliver scalable, efficient solutions while managing full lifecycle software development. Successfully optimized applications used by 100+ government officers, improving performance by 20% and ensuring compliance. Skilled in cross-platform development with a focus on delivering seamless user experiences. Seeking to leverage expertise in React, Android, and MERN Stack to drive innovation and deliver impactful user experiences.</h2>
 <img align="right" alt="coding" width="100%" height="200px" src="https://miro.medium.com/v2/format:jpg/resize:fit:680/1*IRGHmiGsa16stedQvIaZfw.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kushwahavipin&label=Profile%20views&color=0e75b6&style=flat" alt="kushwahavipin" /> </p>
