@@ -38,7 +38,3 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/vipinkushwaha"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="vipinkushwaha" /></a></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kushwahavipin&show_icons=true&locale=en&layout=compact" alt="kushwahavipin" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kushwahavipin&show_icons=true&locale=en" alt="kushwahavipin" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kushwahavipin&" alt="kushwahavipin" /></p>
